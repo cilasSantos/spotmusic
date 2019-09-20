@@ -2,6 +2,7 @@ import React from 'react';
 
 import { Container, NewPlaylist, Nav } from './styles';
 import AddPlaylistIcon from './../../assets/images/add_playlist.svg'
+
 const Sidebar = () => (
   <Container>
     <div >
