@@ -1,3 +1,5 @@
+![](Screen%20Recording%202020-03-26%20at%2009.19%20PM.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
