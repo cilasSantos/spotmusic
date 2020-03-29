@@ -25,7 +25,7 @@
 
 ## 🚀 Instalação e execução
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `spotmusic`;
+2. Entre na pasta `spotmusic`;
 3. Rode `npm install` para instalar as dependências;
 4. Rode `npm start`.
 
