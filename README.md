@@ -37,3 +37,4 @@
 - Faça push para a sua branch: `git push origin minha-feature`.
 - Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
+---
