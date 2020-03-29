@@ -17,13 +17,12 @@
 <p align="center">
   <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalacao-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>
 </p>
 
 
 ## 💻 Tecnologias
 1. <a href="https://pt-br.reactjs.org/" target="_blank" alt="ReactJS" >ReactJS</a>
-2. <a href="https://nodejs.org/en/" target="_blank" alt="ExpressJS" >NodeJS</a>
+2. <a href="https://nodejs.org/en/" target="_blank" alt="NodeJS" >NodeJS</a>
 
 ## 🚀 Instalação e execução
 1. Faça um clone desse repositório;
