@@ -1,6 +1,9 @@
 <h3 align="center">
   Spotmusic web
 </h3>
+
+---
+
 <p align="center">
    <img alt="License" src="Screen%20Recording%202020-03-26%20at%2009.19%20PM.gif">
 </p>
