@@ -20,8 +20,8 @@
 
 
 ## 💻 Tecnologias
-1. ReactJS
-2. NodeJS
+1. <a href="https://pt-br.reactjs.org/" target="_blank" alt="ReactJS" >ReactJS</a>
+2. <a href="https://nodejs.org/en/" target="_blank" alt="ExpressJS" >NodeJS</a>
 
 ## 🚀 Instalação e execução
 1. Faça um clone desse repositório;
