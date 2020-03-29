@@ -1,9 +1,9 @@
 <h3 align="center">
   Spotmusic web
 </h3>
-<div align="center">
+<p align="center">
    <img alt="License" src="Screen%20Recording%202020-03-26%20at%2009.19%20PM.gif">
-</dvi>
+</p>
 
 <p align="center">Clone da interface do spotify 🎓</p>
 
